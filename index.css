@@ -531,7 +531,6 @@
     transform: scale(1.05);
 }
 
-
 .social-links {
     display: flex;
     gap: 15px;
@@ -548,3 +547,4 @@
 .social-icon:hover {
     transform: scale(1.2);
 }
+
