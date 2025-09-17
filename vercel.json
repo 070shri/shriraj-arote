@@ -1,6 +1,18 @@
 {
   "builds": [
     { "src": "index.html", "use": "@vercel/static" },
-    { "src": "style.css", "use": "@vercel/static" }
+    { "src": "style.css", "use": "@vercel/static" },
+    { "src": "script.js", "use": "@vercel/static" },
+    { "src": "Resume.pdf", "use": "@vercel/static" },
+    { "src": "Screenshot 2025-06-23 220317.png", "use": "@vercel/static" },
+    { "src": "Screenshot 2025-06-23 220355.png", "use": "@vercel/static" },
+    { "src": "boy.png", "use": "@vercel/static" },
+    { "src": "codeterna.jpeg", "use": "@vercel/static" },
+    { "src": "github.png", "use": "@vercel/static" },
+    { "src": "image.png", "use": "@vercel/static" },
+    { "src": "instagram.png", "use": "@vercel/static" },
+    { "src": "linkedin.png", "use": "@vercel/static" },
+    { "src": "sahaya.jpeg", "use": "@vercel/static" },
+    { "src": "twitter (1).png", "use": "@vercel/static" }
   ]
 }
