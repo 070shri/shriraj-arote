@@ -6,7 +6,7 @@
     { "src": "Resume.pdf", "use": "@vercel/static" },
     { "src": "Screenshot 2025-06-23 220317.png", "use": "@vercel/static" },
     { "src": "Screenshot 2025-06-23 220355.png", "use": "@vercel/static" },
-    { "src": "boy.png", "use": "@vercel/static" },
+    { "src": "flaticon.png", "use": "@vercel/static" },
     { "src": "codeterna.jpeg", "use": "@vercel/static" },
     { "src": "github.png", "use": "@vercel/static" },
     { "src": "image.png", "use": "@vercel/static" },
