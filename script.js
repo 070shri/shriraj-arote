@@ -109,4 +109,5 @@
         }
 
         // Create new particles periodically
+
         setInterval(createParticle, 3000);
